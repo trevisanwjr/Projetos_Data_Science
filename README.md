@@ -14,7 +14,7 @@ Possuo formação em engenharia de produção, e dois MBAs em gestão de projeto
 
 **Experiência em:** Inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP) e modelagem de dados e informações.
 
-**Background in:** Talend e Integration Services (ETL) e SQL (consultas e extrações) de bases de dados.
+**Background em:** Talend e Integration Services (ETL) e SQL (consultas e extrações) de bases de dados.
 
 **Links:**
 * [Site](http://wordpoint.com.br/)
