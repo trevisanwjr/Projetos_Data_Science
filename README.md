@@ -19,7 +19,7 @@ Possuo formação em engenharia de produção, e dois MBAs em gestão de projeto
 **Links:**
 * [Site](http://wordpoint.com.br/)
 * [LinkedIn](https://www.linkedin.com/in/walter-trevisan/)
-* [Medium](https://medium.com/@trevisanwjr)
+* [Medium](https://medium.com)
 
 
 ## Projetos:
