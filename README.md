@@ -5,16 +5,18 @@
 </p>
 
 # Walter Trevisan
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Cientista de dados* em formação </sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+No emprendizado de cientista de dados, combinamos habilidades analíticas, capacidade de trabalhar em equipe e damos muita atenção aos detalhes. Aplicar problemas de Machine Learning a problemas reais, resulta em muita satisfação e motivação, pois possibilita-se o desenvolvimento do pensamento crítico e de  habilidades na resolução de inúmeros problemas.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minhas credenciais incluem uma formação em engenharia de produção, e dois MBAs em gestão de projetos PMO e Gestão de Negócios, pela FIAP-SP.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Experiência em:** Python, inteligência de negócios(BI), métricas e indicadores, dashboards, tomada de decisões (AHP), modelagem de dados e informações.
+
+**Background in:** Talend e Integration Services (ETL), SQL (consultas e extrações), Integration Services
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+* [Site](http://wordpoint.com.br/)
 * [LinkedIn](https://www.linkedin.com/in/walter-trevisan/)
 * [Medium](https://www.medium.com)
 
