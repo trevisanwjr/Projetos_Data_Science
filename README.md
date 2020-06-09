@@ -5,24 +5,24 @@
 </p>
 
 # Walter Trevisan
-<sub>*Cientista de dados* em formação </sub>
+<sub>Cientista de dados *em formação* </sub>
 
-No emprendizado de cientista de dados, combinamos habilidades analíticas, capacidade de trabalhar em equipe e damos muita atenção aos detalhes. Aplicar problemas de Machine Learning a problemas reais, resulta em muita satisfação e motivação, pois possibilita-se o desenvolvimento do pensamento crítico e de  habilidades na resolução de inúmeros problemas.
+No emprendizado da ciência de dados, combinamos habilidades analíticas, capacidade de trabalhar em equipe e damos muita atenção aos detalhes. Aplicar problemas de Machine Learning a problemas reais, resulta em satisfação e motivação, pois possibilita o desenvolvimento da análise crítica sobre o modelo e na aplicação de habilidades para a resolução de inúmeros problemas.
 
 Minhas credenciais incluem uma formação em engenharia de produção, e dois MBAs em gestão de projetos PMO e Gestão de Negócios, pela FIAP-SP.
 
-**Experiência em:** Python, inteligência de negócios(BI), métricas e indicadores, dashboards, tomada de decisões (AHP), modelagem de dados e informações.
+**Experiência em:** Python, inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP), modelagem de dados e informações.
 
-**Background in:** Talend e Integration Services (ETL), SQL (consultas e extrações), Integration Services
+**Background in:** Talend e Integration Services (ETL) e SQL (consultas e extrações) de bases de dados.
 
 **Links:**
 * [Site](http://wordpoint.com.br/)
 * [LinkedIn](https://www.linkedin.com/in/walter-trevisan/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@trevisanwjr)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Projetos em andamento no curso:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
