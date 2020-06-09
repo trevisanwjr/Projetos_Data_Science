@@ -8,11 +8,11 @@
 # Walter Trevisan
 <sub>Cientista de dados *em formação* </sub>
 
-No emprendizado da ciência de dados, combinamos habilidades analíticas, capacidade de trabalhar em equipe e damos muita atenção aos detalhes. Aplicar problemas de Machine Learning a problemas reais, resulta em satisfação e motivação, pois possibilita o desenvolvimento da análise crítica sobre o modelo e na aplicação de habilidades para a resolução de inúmeros problemas.
+O aprendizado da ciência de dados é facilitado quando da resolução de problemas reais, pois resulta em satisfação e motivação e, possibilita o desenvolvimento de competências para a resolução de inúmeros problemas.
 
-Minhas credenciais incluem uma formação em engenharia de produção, e dois MBAs em gestão de projetos PMO e Gestão de Negócios, pela FIAP-SP.
+Possuo formação em engenharia de produção, e dois MBAs em gestão de projetos PMO e Gestão de Negócios, pela FIAP-SP.
 
-**Experiência em:** Python, inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP), modelagem de dados e informações.
+**Experiência em:** Inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP), modelagem de dados e informações.
 
 **Background in:** Talend e Integration Services (ETL) e SQL (consultas e extrações) de bases de dados.
 
