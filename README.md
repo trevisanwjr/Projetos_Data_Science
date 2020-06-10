@@ -25,7 +25,7 @@ Possuo formação em engenharia de produção, e dois MBAs em gestão de projeto
 ## Projetos:
 Projetos em andamento no curso:
 
-* **PROJETO - Analisando os Dados do Airbnb:**
+* **PROJETO - Analisando os Dados do Airbnb: BARCELONA** https://bit.ly/3cP3kYe
 <!--* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
