@@ -25,7 +25,7 @@ Possuo formação em engenharia de produção, e pós-graduação em Gestão de 
 ## Projetos:
 Projetos em andamento no curso:
 
-* **PROJETO - Analisando os Dados do Airbnb: BARCELONA** https://bit.ly/3hzFO4X
+* **PROJETO - Análise e exploração de dados com as bibliotecas Pandas, Matplotlib e Seaborn** https://bit.ly/3hzFO4X
 <!--* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
