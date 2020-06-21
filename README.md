@@ -12,7 +12,7 @@ O aprendizado da ciência de dados é facilitado quando da resolução de proble
 
 Possuo formação em engenharia de produção, e pós-graduação em Gestão de Projetos PMO e Gestão de Negócios, pela FIAP-SP.
 
-**Experiência em:** Inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP) e modelagem de dados e informações.
+**Experiência em:** Inteligência de negócios(BI), métricas e indicadores, construção de dashboards e modelagem de dados e informações.
 
 **Background em:** Talend e Integration Services (ETL) e SQL (consultas e extrações) de bases de dados.
 
