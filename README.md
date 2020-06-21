@@ -10,7 +10,7 @@
 
 O aprendizado da ciência de dados é facilitado quando da resolução de problemas reais, pois resulta em satisfação e motivação e, possibilita o desenvolvimento de competências para a resolução de inúmeros problemas.
 
-Possuo formação em engenharia de produção, e dois MBAs em gestão de projetos PMO e Gestão de Negócios, pela FIAP-SP.
+Possuo formação em engenharia de produção, e pós-graduação em Gestão de Projetos PMO e Gestão de Negócios, pela FIAP-SP.
 
 **Experiência em:** Inteligência de negócios(BI), métricas e indicadores, construção de dashboards, tomada de decisões (AHP) e modelagem de dados e informações.
 
